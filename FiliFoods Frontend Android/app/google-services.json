@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861469402573",
+    "project_id": "login-register-firebase-c6083",
+    "storage_bucket": "login-register-firebase-c6083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861469402573:android:edecb1ef464578fc515084",
+        "android_client_info": {
+          "package_name": "com.example.filifoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
